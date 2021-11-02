@@ -1,8 +1,10 @@
-![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
+# Pong game in vanilla JS
 
-# Adalab web starter kit
+### This game was programmed during the workshop provided by [Juan Antonio Pérez Jarillo](https://github.com/Baxone/gamepongjs)
 
-Ahoy! Este es nuestro Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
+You can watch the workshop [here](https://www.youtube.com/watch?v=0olzIrtcypg&t=1s)
+
+<!-- Ahoy! Este es nuestro Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
 
 Este Kit incluye un motor de plantillas HTML, el preprocesador SASS y un servidor local y muchas cosas más. El Kit nos ayuda a trabajar más cómodamente, nos automatiza tareas.
 
@@ -122,3 +124,4 @@ src
 ## Falta algo?
 
 Echas de menos que el kit haga algo en concreto? Pidelo sin problema a través de las issues o si te animas a mejorarlo mándanos un PR :)
+ -->
